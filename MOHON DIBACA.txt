@@ -1,0 +1,5 @@
+User untuk login:
+
+Name: Imanuel
+Email: paw@gmail.com
+Password: tugaslaravel
